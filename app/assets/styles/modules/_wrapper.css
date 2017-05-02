@@ -9,6 +9,10 @@
   &--medium {
     max-width: 776px; /* this is 976px in the tutorial */
   }
+
+  &--narrow {
+    max-width: 470px;
+  }
   
   &--no-padding-until-medium {
     padding-left: 0;
